@@ -1,0 +1,14 @@
+[
+  {
+    "user": "admin",
+    "pass": "1234",
+    "hwids": [],
+    "limit": 20
+  },
+  {
+    "user": "peter",
+    "pass": "abcd",
+    "hwids": [],
+    "limit": 5
+  }
+]
